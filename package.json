@@ -17,11 +17,11 @@
     "canais",
     "television"
   ],
-  "author": "WillAcris",
+  "author": "Ally87sk",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/WillAcris/IPTV-BR.git"
+  
   },
   "dependencies": {
     "axios": "^1.6.0",
