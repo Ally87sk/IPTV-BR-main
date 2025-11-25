@@ -1,7 +1,7 @@
 {
-  "name": "iptv-brasil-addon",
-  "version": "3.0.0",
-  "description": "Addon IPTV Brasil para Stremio - Acesso aos principais canais brasileiros",
+  "name": "iptv-0800-addon",
+  "version": "1.0.0",
+  "description": "Addon IPTV 0800 para Stremio - Acesso aos principais canais brasileiros",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
